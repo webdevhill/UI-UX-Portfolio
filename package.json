@@ -1,0 +1,12 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "ex. portfolio website with Sass",
+  "main": "index.js",
+  "scripts": {
+    "sass-dev": "sass --watch scss:dist/css",
+    "test": "npm run sass-dev"
+  },
+  "author": "Jeffrey Hill",
+  "license": "ISC"
+}
